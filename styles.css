@@ -1,0 +1,49 @@
+body {
+    background-color:rgba(51, 111, 160, 0.493);
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+
+    
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+h1{
+    color: rgb(15, 82, 136)
+}
+
+/* h2{
+    width: 50px;
+} */
+
+.avatar{
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(12, 12, 20), alpha);
+
+}
+
+.info p {
+    color:rgba(5, 27, 99, 0.616);
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    /* letter-spacing: 3px; */
+    /* word-spacing: 42px; */
+
+}
+
+/* Box model */
+ .languages {
+    background: rgba(77, 116, 173, 0.5);
+ }
+
+ .container{
+    max-width: 750px;
+    margin: auto;l
+
+ }
